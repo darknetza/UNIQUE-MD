@@ -5,13 +5,13 @@ import fs from 'fs'
 
 //Owner Numbers 
 global.owner = [
-  ['923135673658', 'wasi', false],
+  ['263713571083', 'wasi', false],
   [''], 
   [''],
 ]
 
-//global.pairingNumber = "" //put your bot number here
-global.mods = ['923192173398'] 
+//global.pairingNumber = "273257892" //put your bot number here
+global.mods = ['263713571083'] 
 global.prems = ['923192173398', '923192173398', '923192173398']
 global.allowed = ['923192173398']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
